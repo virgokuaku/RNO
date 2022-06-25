@@ -148,7 +148,7 @@ div {
     font-family: "Cnn Sans";
     font-style: normal;
     font-weight: normal;
-    src: url("../fonts/CNNSansW04-Regular.eot?") format("eot"), url("../fonts/CNNSansW04-Regular.svg#Cnn_Sans") format("svg"), url("../fonts/CNNSansW04-Regular.woff") format("woff");
+    src: url("main/fonts/CNNSansW04-Regular.eot?") format("eot"), url("main/fonts/CNNSansW04-Regular.svg#Cnn_Sans") format("svg"), url("main/fonts/CNNSansW04-Regular.woff") format("woff");
     font-display: swap;
     size-adjust: 92.0535%
 }
@@ -157,7 +157,7 @@ div {
     font-family: "Cnn Sans";
     font-style: normal;
     font-weight: 500;
-    src: url("../fonts/CNNSansW04-Medium.eot?") format("eot"), url("../fonts/CNNSansW04-Medium.svg#Cnn_Sans") format("svg"), url("../fonts/CNNSansW04-Medium.woff") format("woff");
+    src: url("main/fonts/CNNSansW04-Medium.eot?") format("eot"), url("main/fonts/CNNSansW04-Medium.svg#Cnn_Sans") format("svg"), url("main/fonts/CNNSansW04-Medium.woff") format("woff");
     font-display: swap;
     size-adjust: 92.0535%
 }
@@ -166,7 +166,7 @@ div {
     font-family: "Cnn Sans";
     font-style: normal;
     font-weight: bold;
-    src: url("../fonts/CNNSansW04-Bold.eot?") format("eot"), url("../fonts/CNNSansW04-Bold.svg#Cnn_Sans") format("svg"), url("../fonts/CNNSansW04-Bold.woff") format("woff");
+    src: url("main/fonts/CNNSansW04-Bold.eot?") format("eot"), url("main/fonts/CNNSansW04-Bold.svg#Cnn_Sans") format("svg"), url("main/fonts/CNNSansW04-Bold.woff") format("woff");
     font-display: swap;
     size-adjust: 92.0535%
 }
@@ -175,7 +175,7 @@ div {
     font-family: "icon";
     font-style: normal;
     font-weight: normal;
-    src: url("../fonts/icon/icomoon.eot?") format("eot"), url("../fonts/icon/icomoon.svg#icon") format("svg"), url("../fonts/icon/icomoon.woff") format("woff");
+    src: url("main/fonts/icon/icomoon.eot?") format("eot"), url("main/fonts/icon/icomoon.svg#icon") format("svg"), url("main/fonts/icon/icomoon.woff") format("woff");
     font-display: swap
 }
 
@@ -183,7 +183,7 @@ div {
     font-family: "Merriweather";
     font-style: normal;
     font-weight: normal;
-    src: url("../fonts/Merriweather700italic.eot?") format("eot"), url("../fonts/Merriweather700italic.svg#Merriweather") format("svg"), url("../fonts/Merriweather700italic.woff") format("woff");
+    src: url("main/fonts/Merriweather700italic.eot?") format("eot"), url("main/fonts/Merriweather700italic.svg#Merriweather") format("svg"), url("main/fonts/Merriweather700italic.woff") format("woff");
     font-display: swap;
     size-adjust: 99.25%
 }
@@ -2200,7 +2200,7 @@ header {
 }
 
 .feature__box--investigasi {
-    background: url("../images/bg-investigasi.jpg") no-repeat center top;
+    background: url("main/images/bg-investigasi.jpg") no-repeat center top;
     background-size: cover
 }
 
@@ -3617,7 +3617,7 @@ header {
     position: absolute;
     width: 62px;
     height: 62px;
-    background: url(../images/icon_foto_overlay.png) no-repeat;
+    background: url(main/images/icon_foto_overlay.png) no-repeat;
     -webkit-background-size: 100%;
     -o-background-size: 100%;
     background-size: 100%;
@@ -5478,7 +5478,7 @@ ins article .box_text .date:before {
 }
 
 .tipi .title_box2 {
-    background: url(../images/bg_titelbox.png) repeat-x right center;
+    background: url(main/images/bg_titelbox.png) repeat-x right center;
     position: relative;
     height: 25px;
     line-height: 25px;
@@ -5715,7 +5715,7 @@ ins article .box_text .date:before {
     color: #fff;
     width: 20px;
     height: 20px;
-    background: url(../images/nav_box_prev.png);
+    background: url(main/images/nav_box_prev.png);
     background-size: cover;
     border: 0;
     text-indent: -9999px
@@ -5728,7 +5728,7 @@ ins article .box_text .date:before {
     color: #fff;
     width: 20px;
     height: 20px;
-    background: url(../images/nav_box_next.png);
+    background: url(main/images/nav_box_next.png);
     background-size: cover;
     border: 0;
     text-indent: -9999px
@@ -5961,7 +5961,7 @@ ins article .box_text .date:before {
     color: #fff;
     width: 20px;
     height: 20px;
-    background: url(../images/nav_box_prev.png);
+    background: url(main/images/nav_box_prev.png);
     background-size: cover;
     border: 0;
     z-index: 5;
@@ -5975,7 +5975,7 @@ ins article .box_text .date:before {
     color: #fff;
     width: 20px;
     height: 20px;
-    background: url(../images/nav_box_next.png);
+    background: url(main/images/nav_box_next.png);
     background-size: cover;
     border: 0;
     z-index: 5;
@@ -6972,32 +6972,32 @@ ins article .box_text .date:before {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    src: url("../fonts/roboto/roboto-v20-latin-regular.eot");
-    src: local("Roboto"), local("Roboto-Regular"), url("../fonts/roboto/roboto-v20-latin-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/roboto/roboto-v20-latin-regular.woff2") format("woff2"), url("../fonts/roboto/roboto-v20-latin-regular.woff") format("woff"), url("../fonts/roboto/roboto-v20-latin-regular.ttf") format("truetype"), url("../fonts/roboto/roboto-v20-latin-regular.svg#Roboto") format("svg")
+    src: url("main/fonts/roboto/roboto-v20-latin-regular.eot");
+    src: local("Roboto"), local("Roboto-Regular"), url("main/fonts/roboto/roboto-v20-latin-regular.eot?#iefix") format("embedded-opentype"), url("main/fonts/roboto/roboto-v20-latin-regular.woff2") format("woff2"), url("main/fonts/roboto/roboto-v20-latin-regular.woff") format("woff"), url("main/fonts/roboto/roboto-v20-latin-regular.ttf") format("truetype"), url("main/fonts/roboto/roboto-v20-latin-regular.svg#Roboto") format("svg")
 }
 
 @font-face {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
-    src: url("../fonts/roboto/roboto-v20-latin-500.eot");
-    src: local("Roboto Medium"), local("Roboto-Medium"), url("../fonts/roboto/roboto-v20-latin-500.eot?#iefix") format("embedded-opentype"), url("../fonts/roboto/roboto-v20-latin-500.woff2") format("woff2"), url("../fonts/roboto/roboto-v20-latin-500.woff") format("woff"), url("../fonts/roboto/roboto-v20-latin-500.ttf") format("truetype"), url("../fonts/roboto/roboto-v20-latin-500.svg#Roboto") format("svg")
+    src: url("main/fonts/roboto/roboto-v20-latin-500.eot");
+    src: local("Roboto Medium"), local("Roboto-Medium"), url("main/fonts/roboto/roboto-v20-latin-500.eot?#iefix") format("embedded-opentype"), url("main/fonts/roboto/roboto-v20-latin-500.woff2") format("woff2"), url("main/fonts/roboto/roboto-v20-latin-500.woff") format("woff"), url("main/fonts/roboto/roboto-v20-latin-500.ttf") format("truetype"), url("main/fonts/roboto/roboto-v20-latin-500.svg#Roboto") format("svg")
 }
 
 @font-face {
     font-family: 'Merriweather';
     font-style: normal;
     font-weight: 400;
-    src: url("../fonts/merriweather/merriweather-v21-latin-regular.eot");
-    src: local("Merriweather Regular"), local("Merriweather-Regular"), url("../fonts/merriweather/merriweather-v21-latin-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/merriweather/merriweather-v21-latin-regular.woff2") format("woff2"), url("../fonts/merriweather/merriweather-v21-latin-regular.woff") format("woff"), url("../fonts/merriweather/merriweather-v21-latin-regular.ttf") format("truetype"), url("../fonts/merriweather/merriweather-v21-latin-regular.svg#Merriweather") format("svg")
+    src: url("main/fonts/merriweather/merriweather-v21-latin-regular.eot");
+    src: local("Merriweather Regular"), local("Merriweather-Regular"), url("main/fonts/merriweather/merriweather-v21-latin-regular.eot?#iefix") format("embedded-opentype"), url("main/fonts/merriweather/merriweather-v21-latin-regular.woff2") format("woff2"), url("main/fonts/merriweather/merriweather-v21-latin-regular.woff") format("woff"), url("main/fonts/merriweather/merriweather-v21-latin-regular.ttf") format("truetype"), url("main/fonts/merriweather/merriweather-v21-latin-regular.svg#Merriweather") format("svg")
 }
 
 @font-face {
     font-family: 'Merriweather';
     font-style: normal;
     font-weight: 700;
-    src: url("../fonts/merriweather/merriweather-v21-latin-700.eot");
-    src: local("Merriweather Bold"), local("Merriweather-Bold"), url("../fonts/merriweather/merriweather-v21-latin-700.eot?#iefix") format("embedded-opentype"), url("../fonts/merriweather/merriweather-v21-latin-700.woff2") format("woff2"), url("../fonts/merriweather/merriweather-v21-latin-700.woff") format("woff"), url("../fonts/merriweather/merriweather-v21-latin-700.ttf") format("truetype"), url("../fonts/merriweather/merriweather-v21-latin-700.svg#Merriweather") format("svg")
+    src: url("main/fonts/merriweather/merriweather-v21-latin-700.eot");
+    src: local("Merriweather Bold"), local("Merriweather-Bold"), url("main/fonts/merriweather/merriweather-v21-latin-700.eot?#iefix") format("embedded-opentype"), url("main/fonts/merriweather/merriweather-v21-latin-700.woff2") format("woff2"), url("main/fonts/merriweather/merriweather-v21-latin-700.woff") format("woff"), url("main/fonts/merriweather/merriweather-v21-latin-700.ttf") format("truetype"), url("main/fonts/merriweather/merriweather-v21-latin-700.svg#Merriweather") format("svg")
 }
 
 .wisata-page {
@@ -7765,7 +7765,7 @@ footer {
     display: inline-block;
     width: 16px;
     height: 17px;
-    background: url("../images/check.png") center center no-repeat;
+    background: url("main/images/check.png") center center no-repeat;
     background-size: contain;
     margin-left: 5px
 }
