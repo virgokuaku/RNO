@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: 
+    url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/roboto/roboto-v20-latin-regular.eot");
+    src: local("Roboto"), local("Roboto-Regular"), 
+    url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/roboto/roboto-v20-latin-regular.eot?#iefix") format("embedded-opentype"), 
+    url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/roboto/roboto-v20-latin-regular.woff2") format("woff2"), 
+    url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/roboto/roboto-v20-latin-regular.woff") format("woff"), 
+    url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/roboto/roboto-v20-latin-regular.ttf") format("truetype"), 
+    url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/roboto/roboto-v20-latin-regular.svg#Roboto") format("svg")
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    src: 
+    url("../fonts/roboto/roboto-v20-latin-500.eot");
+    src: local("Roboto Medium"), local("Roboto-Medium"), 
+    url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/roboto/roboto-v20-latin-500.eot?#iefix") format("embedded-opentype"), 
+    url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/roboto/roboto-v20-latin-500.woff2") format("woff2"), 
+    url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/roboto/roboto-v20-latin-500.woff") format("woff"), 
+    url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/roboto/roboto-v20-latin-500.ttf") format("truetype"), 
+    url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/roboto/roboto-v20-latin-500.svg#Roboto") format("svg")
+}
+
+@font-face {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 400;
+    src: 
+    url("../fonts/merriweather/merriweather-v21-latin-regular.eot");
+    src: local("Merriweather Regular"), local("Merriweather-Regular"), 
+    url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/merriweather/merriweather-v21-latin-regular.eot?#iefix") format("embedded-opentype"), 
+    url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/merriweather/merriweather-v21-latin-regular.woff2") format("woff2"), 
+    url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/merriweather/merriweather-v21-latin-regular.woff") format("woff"), 
+    url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/merriweather/merriweather-v21-latin-regular.ttf") format("truetype"), 
+    url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/merriweather/merriweather-v21-latin-regular.svg#Merriweather") format("svg")
+}
+
+@font-face {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    src: 
+    url("../fonts/merriweather/merriweather-v21-latin-700.eot");
+    src: local("Merriweather Bold"), local("Merriweather-Bold"), 
+    url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/merriweather/merriweather-v21-latin-700.eot?#iefix") format("embedded-opentype"), 
+    url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/merriweather/merriweather-v21-latin-700.woff2") format("woff2"), 
+    url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/merriweather/merriweather-v21-latin-700.woff") format("woff"), 
+    url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/merriweather/merriweather-v21-latin-700.ttf") format("truetype"), 
+    url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/merriweather/merriweather-v21-latin-700.svg#Merriweather") format("svg")
+}
+4-PLD^HXYTmfgk~a
+
+@font-face {
+    font-family: "icon";
+    font-style: normal;
+    font-weight: normal;
+    src: url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/icon/icomoon.eot?") format("eot"), url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/icon/icomoon.svg#icon") format("svg"), url("https://cdn.cnnindonesia.com/cnnid/mobile/fonts/icon/icomoon.woff") format("woff");
+    font-display: swap
+}

@@ -1,0 +1,35 @@
+
+@font-face {
+    font-family: "Cnn Sans";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/CNNSansW04-Regular.eot?") format("eot"), url("../fonts/CNNSansW04-Regular.svg#Cnn_Sans") format("svg"), url("../fonts/CNNSansW04-Regular.woff") format("woff");
+    font-display: swap;
+    size-adjust: 92.0535%
+}
+
+@font-face {
+    font-family: "Cnn Sans";
+    font-style: normal;
+    font-weight: 500;
+    src: url("../fonts/CNNSansW04-Medium.eot?") format("eot"), url("../fonts/CNNSansW04-Medium.svg#Cnn_Sans") format("svg"), url("../fonts/CNNSansW04-Medium.woff") format("woff");
+    font-display: swap;
+    size-adjust: 92.0535%
+}
+
+@font-face {
+    font-family: "Cnn Sans";
+    font-style: normal;
+    font-weight: bold;
+    src: url("../fonts/CNNSansW04-Bold.eot?") format("eot"), url("../fonts/CNNSansW04-Bold.svg#Cnn_Sans") format("svg"), url("../fonts/CNNSansW04-Bold.woff") format("woff");
+    font-display: swap;
+    size-adjust: 92.0535%
+}
+
+@font-face {
+    font-family: "icon";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/icon/icomoon.eot?") format("eot"), url("../fonts/icon/icomoon.svg#icon") format("svg"), url("../fonts/icon/icomoon.woff") format("woff");
+    font-display: swap
+}
